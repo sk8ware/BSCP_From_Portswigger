@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSCP Y eWPT/Reconocimiento de API/Identificar e interactuar con API Endpoints/Identificar los APIs endpoints.md",
+                "file": "BSCP Y eWPT/Reconocimiento de API/1.3 Identificar e interactuar con los puntos finales de la API/1.3.4 Identificación de los tipos de contenido admitidos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Identificar los APIs endpoints"
+              "title": "1.3.4 Identificación de los tipos de contenido admitidos"
             }
           }
         ]
@@ -171,9 +171,13 @@
   },
   "active": "3ed5191eb5c6e3df",
   "lastOpenFiles": [
-    "BSCP Y eWPT/Reconocimiento de API/Identificar e interactuar con API Endpoints",
+    "BSCP Y eWPT/Reconocimiento de API/1.3 Identificar e interactuar con los puntos finales de la API/1.3.3 Identificación de métodos HTTP compatibles.md",
+    "BSCP Y eWPT/Reconocimiento de API/1.3 Identificar e interactuar con los puntos finales de la API/1.3.4 Identificación de los tipos de contenido admitidos.md",
+    "BSCP Y eWPT/Reconocimiento de API/1.3 Identificar e interactuar con los puntos finales de la API/1.3.2 Interactuar con los puntos finales de la API.md",
+    "BSCP Y eWPT/Reconocimiento de API/1.3 Identificar e interactuar con los puntos finales de la API/1.3.1 Identificar los APIs endpoints.md",
+    "BSCP Y eWPT/Reconocimiento de API/1.3 Identificar e interactuar con los puntos finales de la API",
+    "BSCP Y eWPT/Reconocimiento de API/1.2 Documentación de la API/Identificar e interactuar con API Endpoints",
     "BSCP Y eWPT/Reconocimiento de API/1.2 Documentación de la API/1.2.4 Uso de documentación legible por máquina.md",
-    "BSCP Y eWPT/Reconocimiento de API/Identificar e interactuar con API Endpoints/Identificar los APIs endpoints.md",
     "BSCP Y eWPT/Reconocimiento de API/1.2 Documentación de la API/1.2.3 Lab Exploiting an API endpoint using documentation.md",
     "IMG/Pasted image 20250501222143.png",
     "IMG/Pasted image 20250501213852.png",
