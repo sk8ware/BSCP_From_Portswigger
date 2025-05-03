@@ -1,0 +1,1 @@
+Falsificación de solicitud entre sitios (también conocida como CSRF) es una vulnerabilidad de seguridad web que permite a un atacante inducir a los usuarios a realizar acciones que no desean. Permite al atacante eludir parcialmente la política de mismo origen, diseñada para evitar que diferentes sitios web interfieran entre sí.
