@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eWPT/CSRF/Qué es CSRF.md",
+                "file": "BSCP Y eWPT/Reconocimiento de API/Identificar e interactuar con API Endpoints/Identificar los APIs endpoints.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qué es CSRF"
+              "title": "Identificar los APIs endpoints"
             }
           }
         ]
@@ -171,13 +171,26 @@
   },
   "active": "3ed5191eb5c6e3df",
   "lastOpenFiles": [
+    "BSCP Y eWPT/Reconocimiento de API/Identificar e interactuar con API Endpoints",
+    "BSCP Y eWPT/Reconocimiento de API/1.2 Documentación de la API/1.2.4 Uso de documentación legible por máquina.md",
+    "BSCP Y eWPT/Reconocimiento de API/Identificar e interactuar con API Endpoints/Identificar los APIs endpoints.md",
+    "BSCP Y eWPT/Reconocimiento de API/1.2 Documentación de la API/1.2.3 Lab Exploiting an API endpoint using documentation.md",
+    "IMG/Pasted image 20250501222143.png",
+    "IMG/Pasted image 20250501213852.png",
+    "BSCP Y eWPT/Reconocimiento de API/1.2 Documentación de la API/1.2.2 Descubriendo la documentación de la API.md",
+    "IMG",
+    "BSCP Y eWPT/Reconocimiento de API/1.1 Reconocimiento/1.1.1 Reconocimiento.md",
+    "BSCP Y eWPT/Reconocimiento de API/1.1 Reconocimiento",
+    "BSCP Y eWPT/Reconocimiento de API/1.2 Documentación de la API/1.2.1 Documentación de la API.md",
+    "BSCP Y eWPT/Reconocimiento de API/1.2 Documentación de la API",
+    "BSCP Y eWPT/CSRF/Qué es CSRF.md",
+    "BSCP Y eWPT/Reconocimiento de API",
     "README.md",
-    "eWPT/CSRF/Qué es CSRF.md",
-    "eWPT/CSRF",
+    "BSCP Y eWPT/CSRF",
     "eWPT/Metodologías de evaluación/Sin título.md",
     "eWPT/Metodologías de evaluación",
     "Bienvenido.md",
-    "eWPT",
+    "BSCP Y eWPT",
     "Sin título.md"
   ]
 }
