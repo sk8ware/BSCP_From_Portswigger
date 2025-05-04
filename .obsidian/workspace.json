@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSCP/Reconocimiento de API/1.4 Encontrar parámetros ocultos/1.4.1 Econtrar parámetros ocultos.md",
+                "file": "BSCP/Reconocimiento de API/1.5 Vulnerabilidades de asignación masiva/1.5.2 Identificación de parámetros ocultos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4.1 Econtrar parámetros ocultos"
+              "title": "1.5.2 Identificación de parámetros ocultos"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 385.5
   },
   "right": {
     "id": "760c285b48af8723",
@@ -171,6 +171,8 @@
   },
   "active": "3ed5191eb5c6e3df",
   "lastOpenFiles": [
+    "BSCP/Reconocimiento de API/1.4 Encontrar parámetros ocultos/1.4.1 Econtrar parámetros ocultos.md",
+    "BSCP/Reconocimiento de API/1.5 Vulnerabilidades de asignación masiva/1.5.2 Identificación de parámetros ocultos.md",
     "BSCP/Reconocimiento de API/1.5 Vulnerabilidades de asignación masiva/1.5.1 Vulnerabilidades de asignación masiva.md",
     "BSCP/Reconocimiento de API/1.3 Identificar e interactuar con los puntos finales de la API/1.3.6 Uso de Intruder para encontrar puntos finales ocultos.md",
     "BSCP/Reconocimiento de API/1.3 Identificar e interactuar con los puntos finales de la API/1.3.4 Identificación de los tipos de contenido admitidos.md",
@@ -178,7 +180,6 @@
     "BSCP/Reconocimiento de API/1.3 Identificar e interactuar con los puntos finales de la API/1.3.3 Identificación de métodos HTTP compatibles.md",
     "BSCP/Reconocimiento de API/1.3 Identificar e interactuar con los puntos finales de la API/1.3.1 Identificar los APIs endpoints.md",
     "BSCP/Reconocimiento de API/1.3 Identificar e interactuar con los puntos finales de la API/1.3.2 Interactuar con los puntos finales de la API.md",
-    "BSCP/Reconocimiento de API/1.4 Encontrar parámetros ocultos/1.4.1 Econtrar parámetros ocultos.md",
     "eWPT/Inicio 01-06-205.md",
     "BSCP/CSRF/Qué es CSRF.md",
     "BSCP/Reconocimiento de API/1.5 Vulnerabilidades de asignación masiva",
