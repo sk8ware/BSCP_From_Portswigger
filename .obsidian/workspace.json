@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eWPT/Inicio 01-06-205.md",
+                "file": "BSCP/Reconocimiento de API/1.5 Vulnerabilidades de asignación masiva/1.5.1 Vulnerabilidades de asignación masiva.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inicio 01-06-205"
+              "title": "1.5.1 Vulnerabilidades de asignación masiva"
             }
           }
         ]
@@ -171,8 +171,13 @@
   },
   "active": "3ed5191eb5c6e3df",
   "lastOpenFiles": [
-    "BSCP/Reconocimiento de API/1.3 Identificar e interactuar con los puntos finales de la API/1.3.5 LAB.md",
+    "BSCP/Reconocimiento de API/1.4 Encontrar parámetros ocultos/1.4.1 Econtrar parámetros ocultos.md",
+    "BSCP/Reconocimiento de API/1.5 Vulnerabilidades de asignación masiva/1.5.1 Vulnerabilidades de asignación masiva.md",
     "eWPT/Inicio 01-06-205.md",
+    "BSCP/CSRF/Qué es CSRF.md",
+    "BSCP/Reconocimiento de API/1.3 Identificar e interactuar con los puntos finales de la API/1.3.5 LAB.md",
+    "BSCP/Reconocimiento de API/1.5 Vulnerabilidades de asignación masiva",
+    "BSCP/Reconocimiento de API/1.4 Encontrar parámetros ocultos",
     "BSCP/Reconocimiento de API/1.3 Identificar e interactuar con los puntos finales de la API/1.3.6 Uso de Intruder para encontrar puntos finales ocultos.md",
     "IMG/Pasted image 20250502235628.png",
     "BSCP/Reconocimiento de API/1.3 Identificar e interactuar con los puntos finales de la API/1.3.4 Identificación de los tipos de contenido admitidos.md",
@@ -192,14 +197,11 @@
     "BSCP/Reconocimiento de API/1.1 Reconocimiento",
     "BSCP/Reconocimiento de API/1.2 Documentación de la API/1.2.1 Documentación de la API.md",
     "BSCP/Reconocimiento de API/1.2 Documentación de la API",
-    "BSCP/CSRF/Qué es CSRF.md",
     "BSCP/Reconocimiento de API",
     "README.md",
     "BSCP/CSRF",
     "eWPT/Metodologías de evaluación/Sin título.md",
-    "eWPT/Metodologías de evaluación",
     "Bienvenido.md",
-    "BSCP",
     "Sin título.md"
   ]
 }
