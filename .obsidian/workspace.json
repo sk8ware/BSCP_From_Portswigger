@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSCP/Pruebas de API/1.10 Prueba de contaminación de parámetros del lado del servidor en formatos de datos estructurados/1.10.2 Prueba de contaminación de parámetros del lado del servidor en formatos de datos estructurados (continuación).md",
+                "file": "BSCP/Pruebas de API/1.11 Pruebas con herramientas automatizadas/1.11.1 Pruebas con herramientas automatizadas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.10.2 Prueba de contaminación de parámetros del lado del servidor en formatos de datos estructurados (continuación)"
+              "title": "1.11.1 Pruebas con herramientas automatizadas"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "3ed5191eb5c6e3df",
   "lastOpenFiles": [
-    "BSCP/Pruebas de API/1.10 Prueba de contaminación de parámetros del lado del servidor en formatos de datos estructurados/1.10.1 Prueba de contaminación de parámetros del lado del servidor en formatos de datos estructurados.md",
     "BSCP/Pruebas de API/1.10 Prueba de contaminación de parámetros del lado del servidor en formatos de datos estructurados/1.10.2 Prueba de contaminación de parámetros del lado del servidor en formatos de datos estructurados (continuación).md",
+    "BSCP/Pruebas de API/1.11 Pruebas con herramientas automatizadas/1.11.1 Pruebas con herramientas automatizadas.md",
+    "BSCP/Pruebas de API/1.11 Pruebas con herramientas automatizadas",
+    "BSCP/Pruebas de API/1.10 Prueba de contaminación de parámetros del lado del servidor en formatos de datos estructurados/1.10.1 Prueba de contaminación de parámetros del lado del servidor en formatos de datos estructurados.md",
     "BSCP/Pruebas de API/1.9 Prueba de contaminación de parámetros del lado del servidor en rutas REST/1.9.1 Prueba de contaminación de parámetros del lado del servidor en rutas REST.md",
     "BSCP/Pruebas de API/1.10 Prueba de contaminación de parámetros del lado del servidor en formatos de datos estructurados",
     "BSCP/Pruebas de API/1.9 Prueba de contaminación de parámetros del lado del servidor en rutas REST",
@@ -214,8 +216,6 @@
     "BSCP/Pruebas de API/1.3 Identificar e interactuar con los puntos finales de la API/1.3.1 Identificar los APIs endpoints.md",
     "BSCP/Pruebas de API/1.3 Identificar e interactuar con los puntos finales de la API/1.3.2 Interactuar con los puntos finales de la API.md",
     "BSCP/CSRF/Qué es CSRF.md",
-    "BSCP/Pruebas de API/1.5 Vulnerabilidades de asignación masiva",
-    "BSCP/Pruebas de API/1.2 Documentación de la API/1.2.4 Uso de documentación legible por máquina.md",
-    "BSCP/Pruebas de API/1.2 Documentación de la API/1.2.3 Lab Exploiting an API endpoint using documentation.md"
+    "BSCP/Pruebas de API/1.2 Documentación de la API/1.2.4 Uso de documentación legible por máquina.md"
   ]
 }
