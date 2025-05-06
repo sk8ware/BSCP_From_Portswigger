@@ -1,7 +1,7 @@
 
 ---
 
-### 🔗 Web Security Academy vs OWASP API Top 10 (2023) – Resumen
+### 🔗 Web Security Academy vs OWASP API Top 10 (2023) 
 
 OWASP publica una lista de los **10 principales riesgos de seguridad en APIs**. Muchos de estos riesgos ya están cubiertos en los módulos de **Web Security Academy (WSA)**, aunque con nombres diferentes.
 
