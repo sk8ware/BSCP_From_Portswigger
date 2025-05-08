@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.3 Mapeo de la superficie de ataque de la API de LLM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1.2.3 Mapeo de la superficie de ataque de la API de LLM"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "3ed5191eb5c6e3df",
   "lastOpenFiles": [
+    "README.md",
     "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.3 Mapeo de la superficie de ataque de la API de LLM.md",
     "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.2 Cómo funcionan las API de LLM.md",
     "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.1 Explotación de las APIs, funciones y complementos de LLM.md",
@@ -182,7 +183,6 @@
     "BSCP/Pruebas de API/13 Alineación de la Academia de Seguridad Web con las 10 principales vulnerabilidades de API de OWASP.md",
     "BSCP/Ataques Web LLM",
     "OXTeams.md",
-    "README.md",
     "BSCP/Pruebas de API/1.5 Vulnerabilidades de asignación masiva/1.5.3 Prueba de vulnerabilidades de asignación masiva.md",
     "BSCP/Pruebas de API/1.5 Vulnerabilidades de asignación masiva/1.5.2 Identificación de parámetros ocultos.md",
     "BSCP/Pruebas de API/1.12 Prevención de la contaminación de parámetros del lado del servidor/1.12.1 Prevención de la contaminación de parámetros del lado del servidor.md",
