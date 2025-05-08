@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.3 Mapeo de la superficie de ataque de la API de LLM.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2.3 Mapeo de la superficie de ataque de la API de LLM"
+              "title": "README"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "3ed5191eb5c6e3df",
   "lastOpenFiles": [
-    "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.2 Cómo funcionan las API de LLM.md",
     "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.3 Mapeo de la superficie de ataque de la API de LLM.md",
+    "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.2 Cómo funcionan las API de LLM.md",
     "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.1 Explotación de las APIs, funciones y complementos de LLM.md",
     "BSCP/Ataques Web LLM/1.1 Qué es un modelo de lenguaje grande/1.1.3 Detección de vulnerabilidades de LLM.md",
     "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM",
