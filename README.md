@@ -3,6 +3,7 @@
 
 🧠 Autor: sk8ware (Anthony)  
 🎯 Objetivo: Hacer el aprendizaje de ciberseguridad gratuito, claro y accesible 🚀
+
 ---
 
 **Cómo aprobar la eWPT a LA PRIMERA!**
