@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.5 Encadenamiento de vulnerabilidades en las API de LLM.md",
+                "file": "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.6 LAB !.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2.5 Encadenamiento de vulnerabilidades en las API de LLM"
+              "title": "1.2.6 LAB !"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "3ed5191eb5c6e3df",
   "lastOpenFiles": [
-    "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.4 LAB !.md",
     "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.5 Encadenamiento de vulnerabilidades en las API de LLM.md",
+    "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.6 LAB !.md",
+    "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.4 LAB !.md",
     "IMG/LAB LLM 1.png",
     "BSCP\\Ataques Web LLM\\1.2 Explotación de las APIs, funciones y complementos de LLM",
     "IMG/LAB LLM.png",
@@ -215,7 +216,6 @@
     "BSCP/Pruebas de API/1.8 Prueba de contaminación de parámetros del lado del servidor en la cadena de consulta/1.8.3 Inyectar parámetros no válidos.md",
     "BSCP/Pruebas de API/1.8 Prueba de contaminación de parámetros del lado del servidor en la cadena de consulta/1.8.2 Truncamiento de cadenas de consulta.md",
     "BSCP/Pruebas de API/1.8 Prueba de contaminación de parámetros del lado del servidor en la cadena de consulta/1.8.1 Prueba de contaminación de parámetros del lado del servidor en la cadena de consulta.md",
-    "BSCP/Pruebas de API/1.5 Vulnerabilidades de asignación masiva/1.5.4 LAB !.md",
     "BSCP/Pruebas de API/1.8 Prueba de contaminación de parámetros del lado del servidor en la cadena de consulta"
   ]
 }
