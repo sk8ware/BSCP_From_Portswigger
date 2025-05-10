@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSCP/Ataques Web LLM/1.3 Indirect prompt injection/1.3.1 Indirect prompt injection.md",
+                "file": "BSCP/Ataques Web LLM/1.3 Indirect prompt injection/1.3.2 Indirect prompt injection - Continued.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3.1 Indirect prompt injection"
+              "title": "1.3.2 Indirect prompt injection - Continued"
             }
           }
         ]
@@ -171,8 +171,11 @@
   },
   "active": "3ed5191eb5c6e3df",
   "lastOpenFiles": [
-    "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.6 LAB !.md",
     "BSCP/Ataques Web LLM/1.3 Indirect prompt injection/1.3.1 Indirect prompt injection.md",
+    "BSCP/Ataques Web LLM/1.3 Indirect prompt injection/1.3.2 Indirect prompt injection - Continued.md",
+    "BSCP\\Ataques Web LLM\\1.3 Indirect prompt injection",
+    "Pasted image 20250510004730.png",
+    "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.6 LAB !.md",
     "BSCP/Ataques Web LLM/1.3 Indirect prompt injection",
     "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.5 Encadenamiento de vulnerabilidades en las API de LLM.md",
     "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.4 LAB !.md",
@@ -203,19 +206,16 @@
     "BSCP/Pruebas de API/1.10 Prueba de contaminación de parámetros del lado del servidor en formatos de datos estructurados",
     "BSCP/Pruebas de API/1.9 Prueba de contaminación de parámetros del lado del servidor en rutas REST",
     "IMG/Pasted image 20250505233102.png",
-    "BSCP\\Pruebas de API\\1.8 Prueba de contaminación de parámetros del lado del servidor en la cadena de consulta",
     "IMG/Pasted image 20250505232944.png",
     "IMG/Pasted image 20250505232605.png",
     "IMG/Pasted image 20250505231824.png",
     "IMG/Pasted image 20250505231138.png",
     "IMG/Pasted image 20250505231013.png",
     "IMG/Pasted image 20250505230855.png",
-    "IMG/Pasted image 20250505225647.png",
     "BSCP/Pruebas de API/1.8 Prueba de contaminación de parámetros del lado del servidor en la cadena de consulta/1.8.6 LAB !.md",
     "eWPT/Inicio 01-06-205.md",
     "BSCP/Pruebas de API/1.8 Prueba de contaminación de parámetros del lado del servidor en la cadena de consulta/1.8.5 Anulación de parámetros existentes.md",
     "BSCP/Pruebas de API/1.8 Prueba de contaminación de parámetros del lado del servidor en la cadena de consulta/1.8.4 Inyectando parámetros válidos.md",
-    "BSCP/Pruebas de API/1.8 Prueba de contaminación de parámetros del lado del servidor en la cadena de consulta/1.8.3 Inyectar parámetros no válidos.md",
-    "BSCP/Pruebas de API/1.8 Prueba de contaminación de parámetros del lado del servidor en la cadena de consulta/1.8.2 Truncamiento de cadenas de consulta.md"
+    "BSCP/Pruebas de API/1.8 Prueba de contaminación de parámetros del lado del servidor en la cadena de consulta/1.8.3 Inyectar parámetros no válidos.md"
   ]
 }
