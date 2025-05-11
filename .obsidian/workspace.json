@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSCP/Ataques Web LLM/1.5 Defensa contra los ataques LLM/1.5.3 No confíes en las indicaciones para bloquear los ataques.md",
+                "file": "BSCP/CSRF/Qué es CSRF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5.3 No confíes en las indicaciones para bloquear los ataques"
+              "title": "Qué es CSRF"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "3ed5191eb5c6e3df",
   "lastOpenFiles": [
-    "BSCP/Ataques Web LLM/1.5 Defensa contra los ataques LLM/1.5.2 No alimente a los LLM con datos confidenciales.md",
     "BSCP/Ataques Web LLM/1.5 Defensa contra los ataques LLM/1.5.3 No confíes en las indicaciones para bloquear los ataques.md",
+    "BSCP/Ataques Web LLM/1.5 Defensa contra los ataques LLM/1.5.2 No alimente a los LLM con datos confidenciales.md",
     "BSCP/Ataques Web LLM/1.5 Defensa contra los ataques LLM/1.5.1 Tratar las API proporcionadas a los LLM como accesibles públicamente.md",
     "BSCP/Ataques Web LLM/1.4  Filtración de datos sensibles del entrenamiento/1.4.1 Filtración de datos sensibles del entrenamiento.md",
     "BSCP/Ataques Web LLM/1.5 Defensa contra los ataques LLM",
