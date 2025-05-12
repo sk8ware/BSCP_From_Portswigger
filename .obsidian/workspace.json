@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSCP/CSRF/1.2 Cuál es el impacto de un ataque CSRF.md",
+                "file": "BSCP/CSRF/1.3 Cómo funciona CSRF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Cuál es el impacto de un ataque CSRF"
+              "title": "1.3 Cómo funciona CSRF"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "3ed5191eb5c6e3df",
   "lastOpenFiles": [
-    "BSCP/CSRF/1.1 Qué es CSRF.md",
     "BSCP/CSRF/1.2 Cuál es el impacto de un ataque CSRF.md",
+    "BSCP/CSRF/1.3 Cómo funciona CSRF.md",
+    "BSCP/CSRF/1.1 Qué es CSRF.md",
     "BSCP/Ataques Web LLM/1.5 Defensa contra los ataques LLM/1.5.3 No confíes en las indicaciones para bloquear los ataques.md",
     "BSCP/Ataques Web LLM/1.5 Defensa contra los ataques LLM/1.5.2 No alimente a los LLM con datos confidenciales.md",
     "BSCP/Ataques Web LLM/1.5 Defensa contra los ataques LLM/1.5.1 Tratar las API proporcionadas a los LLM como accesibles públicamente.md",
@@ -207,7 +208,6 @@
     "BSCP/Pruebas de API/1.5 Vulnerabilidades de asignación masiva/1.5.3 Prueba de vulnerabilidades de asignación masiva.md",
     "BSCP/Pruebas de API/1.5 Vulnerabilidades de asignación masiva/1.5.2 Identificación de parámetros ocultos.md",
     "BSCP/Pruebas de API/1.12 Prevención de la contaminación de parámetros del lado del servidor/1.12.1 Prevención de la contaminación de parámetros del lado del servidor.md",
-    "BSCP/Pruebas de API/1.11 Pruebas con herramientas automatizadas/1.11.1 Pruebas con herramientas automatizadas.md",
     "BSCP/Pruebas de API/1.12 Prevención de la contaminación de parámetros del lado del servidor",
     "BSCP/Pruebas de API/1.11 Pruebas con herramientas automatizadas",
     "IMG/Pasted image 20250505233102.png",
