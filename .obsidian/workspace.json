@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSCP/CSRF/Qué es CSRF.md",
+                "file": "BSCP/CSRF/1.2 Cuál es el impacto de un ataque CSRF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qué es CSRF"
+              "title": "1.2 Cuál es el impacto de un ataque CSRF"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "3ed5191eb5c6e3df",
   "lastOpenFiles": [
+    "BSCP/CSRF/1.1 Qué es CSRF.md",
+    "BSCP/CSRF/1.2 Cuál es el impacto de un ataque CSRF.md",
     "BSCP/Ataques Web LLM/1.5 Defensa contra los ataques LLM/1.5.3 No confíes en las indicaciones para bloquear los ataques.md",
     "BSCP/Ataques Web LLM/1.5 Defensa contra los ataques LLM/1.5.2 No alimente a los LLM con datos confidenciales.md",
     "BSCP/Ataques Web LLM/1.5 Defensa contra los ataques LLM/1.5.1 Tratar las API proporcionadas a los LLM como accesibles públicamente.md",
@@ -207,9 +209,7 @@
     "BSCP/Pruebas de API/1.12 Prevención de la contaminación de parámetros del lado del servidor/1.12.1 Prevención de la contaminación de parámetros del lado del servidor.md",
     "BSCP/Pruebas de API/1.11 Pruebas con herramientas automatizadas/1.11.1 Pruebas con herramientas automatizadas.md",
     "BSCP/Pruebas de API/1.12 Prevención de la contaminación de parámetros del lado del servidor",
-    "BSCP/Pruebas de API/1.10 Prueba de contaminación de parámetros del lado del servidor en formatos de datos estructurados/1.10.2 Prueba de contaminación de parámetros del lado del servidor en formatos de datos estructurados (continuación).md",
     "BSCP/Pruebas de API/1.11 Pruebas con herramientas automatizadas",
-    "BSCP/Pruebas de API/1.10 Prueba de contaminación de parámetros del lado del servidor en formatos de datos estructurados/1.10.1 Prueba de contaminación de parámetros del lado del servidor en formatos de datos estructurados.md",
     "IMG/Pasted image 20250505233102.png",
     "IMG/Pasted image 20250505232944.png",
     "IMG/Pasted image 20250505232605.png",
