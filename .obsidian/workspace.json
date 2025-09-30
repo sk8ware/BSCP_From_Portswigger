@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. SQL Injection/1.1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
+                "file": "1. SQL Injection/Labs/Sin título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data"
+              "title": "Sin título"
             }
           }
         ],
@@ -218,16 +218,22 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2abd92819f6ad79b",
+  "active": "913a406e480b9ede",
   "lastOpenFiles": [
+    "1. SQL Injection/Qué es SQL Injection.md",
+    "1. SQL Injection/Labs/Sin título.md",
+    "1. SQL Injection/1.1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
+    "1. SQL Injection/Labs",
+    "Pasted image 20250929224612.png",
+    "Pasted image 20250929222757.png",
+    "Pasted image 20250929221444.png",
+    "IMAGES/Pasted image 20250929215856.png",
     "IMAGES/Pasted image 20250929214509.png",
     "IMAGES/Pasted image 20250929213925.png",
     "IMAGES/Pasted image 20250929213141.png",
     "IMAGES/Pasted image 20250929212857.png",
     "IMAGES/Pasted image 20250929212536.png",
     "IMAGES/Pasted image 20250929212301.png",
-    "IMAGES/Pasted image 20250929212027.png",
-    "IMAGES/Pasted image 20250929200754.png",
     "SSRF (Server-side- Request Forgery/Basic SSRF against another back-end system.md",
     "Path travesal/File path traversal, validation of start of path.md",
     "Path travesal/File path traversal, validation of file extension with null byte bypass.md",
@@ -236,7 +242,6 @@
     "SSRF (Server-side- Request Forgery/Basic SSRF against the local server.md",
     "1. SQL Injection/Sin título 1.md",
     "SSRF (Server-side- Request Forgery/Blind SSRF with out-of-band detection.md",
-    "1. SQL Injection/1.1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
     "XSS/Reflected XSS into a JavaScript string with angle brackets HTML encoded.md",
     "1. SQL Injection",
     "XSS/Stored XSS into anchor href attribute with double quotes HTML-encoded.md",
@@ -250,10 +255,7 @@
     "XML external entity (XXE) injection/Exploiting XXE to perform SSRF attacks.md",
     "SSRF (Server-side- Request Forgery/SSRF with filter bypass via open redirection vulnerability.md",
     "SSRF (Server-side- Request Forgery/SSRF with blacklist-based input filter.md",
-    "IMAGES/Pasted image 20250128215953.png",
     "XML external entity (XXE) injection/XML External Entity (XXE) Injection.md",
-    "IMAGES/Pasted image 20250127224126.png",
-    "IMAGES/Pasted image 20250127225901.png",
     "XML external entity (XXE) injection",
     "IMAGES",
     "SSRF (Server-side- Request Forgery",
