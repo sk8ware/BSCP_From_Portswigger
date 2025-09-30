@@ -1,41 +1,94 @@
 {
   "main": {
-    "id": "fb7cc5c2864b4608",
+    "id": "04ead913a67cf947",
     "type": "split",
     "children": [
       {
-        "id": "0a586f202c6d5a23",
+        "id": "538f5465ff552b22",
         "type": "tabs",
         "children": [
           {
-            "id": "3ed5191eb5c6e3df",
+            "id": "e2952e6ea4874929",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "60a558bebda698a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSCP/CSRF/1.4 Cómo funciona CSRF - Continuación.md",
+                "file": "Path travesal/File path traversal, validation of file extension with null byte bypass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 Cómo funciona CSRF - Continuación"
+              "title": "File path traversal, validation of file extension with null byte bypass"
+            }
+          },
+          {
+            "id": "15f45075bfcaeff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSRF (Server-side- Request Forgery/SSRF with filter bypass via open redirection vulnerability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SSRF with filter bypass via open redirection vulnerability"
+            }
+          },
+          {
+            "id": "25596505274de413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XSS/Reflected XSS into attribute with angle brackets HTML-encoded.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reflected XSS into attribute with angle brackets HTML-encoded"
+            }
+          },
+          {
+            "id": "913a406e480b9ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. SQL Injection/1.1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8519256bcfe865f8",
+    "id": "94f2fb50fade889a",
     "type": "split",
     "children": [
       {
-        "id": "e152da4cca41c4e2",
+        "id": "e982535afa75f950",
         "type": "tabs",
         "children": [
           {
-            "id": "42433b943231487a",
+            "id": "2abd92819f6ad79b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +101,7 @@
             }
           },
           {
-            "id": "f843688f18df0043",
+            "id": "b10437ec152b16fb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +118,7 @@
             }
           },
           {
-            "id": "37fccf6abc89a57e",
+            "id": "a277f990dceba31e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +131,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5026054382324,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "760c285b48af8723",
+    "id": "2e11a5d743ab7445",
     "type": "split",
     "children": [
       {
-        "id": "91a41188ad7b617f",
+        "id": "5a12094cd6c19520",
         "type": "tabs",
         "children": [
           {
-            "id": "dfe5f3bba2e0c632",
+            "id": "d61b7f1c1722b452",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT/Metodologías de evaluación/Sin título.md",
+                "file": "Path travesal/File path traversal, validation of file extension with null byte bypass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,51 +157,46 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Sin título"
+              "title": "Enlaces entrantes de File path traversal, validation of file extension with null byte bypass"
             }
           },
           {
-            "id": "5b43eab9660b7e59",
+            "id": "2cdb708f2f6fc091",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT/Metodologías de evaluación/Sin título.md",
+                "file": "Path travesal/File path traversal, validation of file extension with null byte bypass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Sin título"
+              "title": "Enlaces salientes de File path traversal, validation of file extension with null byte bypass"
             }
           },
           {
-            "id": "1aba3d53e017e2ce",
+            "id": "d008418b413b28e6",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Etiquetas"
             }
           },
           {
-            "id": "ca227c49f30e7788",
+            "id": "aac480242492393e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT/Metodologías de evaluación/Sin título.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "Path travesal/File path traversal, validation of file extension with null byte bypass.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de Sin título"
+              "title": "Esquema de File path traversal, validation of file extension with null byte bypass"
             }
           }
         ]
@@ -161,6 +208,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -170,53 +218,46 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "3ed5191eb5c6e3df",
+  "active": "2abd92819f6ad79b",
   "lastOpenFiles": [
-    "BSCP/CSRF/1.3 Cómo funciona CSRF.md",
-    "BSCP/CSRF/1.4 Cómo funciona CSRF - Continuación.md",
-    "BSCP/CSRF/1.2 Cuál es el impacto de un ataque CSRF.md",
-    "BSCP/CSRF/1.1 Qué es CSRF.md",
-    "BSCP/Ataques Web LLM/1.5 Defensa contra los ataques LLM/1.5.3 No confíes en las indicaciones para bloquear los ataques.md",
-    "BSCP/Ataques Web LLM/1.5 Defensa contra los ataques LLM/1.5.2 No alimente a los LLM con datos confidenciales.md",
-    "BSCP/Ataques Web LLM/1.5 Defensa contra los ataques LLM/1.5.1 Tratar las API proporcionadas a los LLM como accesibles públicamente.md",
-    "BSCP/Ataques Web LLM/1.4  Filtración de datos sensibles del entrenamiento/1.4.1 Filtración de datos sensibles del entrenamiento.md",
-    "BSCP/Ataques Web LLM/1.5 Defensa contra los ataques LLM",
-    "BSCP/Ataques Web LLM/1.3 Indirect prompt injection/1.3.4 Envenenamiento de datos de entrenamiento.md",
-    "BSCP/Ataques Web LLM/1.4  Filtración de datos sensibles del entrenamiento",
-    "BSCP/Ataques Web LLM/1.3 Indirect prompt injection/1.3.3 LAB !.md",
-    "BSCP/Ataques Web LLM/1.3 Indirect prompt injection/1.3.2 Indirect prompt injection - Continued.md",
-    "BSCP/Ataques Web LLM/1.3 Indirect prompt injection/1.3.1 Indirect prompt injection.md",
-    "BSCP\\Ataques Web LLM\\1.3 Indirect prompt injection",
-    "Pasted image 20250510004730.png",
-    "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.6 LAB !.md",
-    "BSCP/Ataques Web LLM/1.3 Indirect prompt injection",
-    "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.5 Encadenamiento de vulnerabilidades en las API de LLM.md",
-    "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.4 LAB !.md",
-    "IMG/LAB LLM 1.png",
-    "BSCP\\Ataques Web LLM\\1.2 Explotación de las APIs, funciones y complementos de LLM",
-    "IMG/LAB LLM.png",
-    "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.3 Mapeo de la superficie de ataque de la API de LLM.md",
+    "IMAGES/Pasted image 20250929214509.png",
+    "IMAGES/Pasted image 20250929213925.png",
+    "IMAGES/Pasted image 20250929213141.png",
+    "IMAGES/Pasted image 20250929212857.png",
+    "IMAGES/Pasted image 20250929212536.png",
+    "IMAGES/Pasted image 20250929212301.png",
+    "IMAGES/Pasted image 20250929212027.png",
+    "IMAGES/Pasted image 20250929200754.png",
+    "SSRF (Server-side- Request Forgery/Basic SSRF against another back-end system.md",
+    "Path travesal/File path traversal, validation of start of path.md",
+    "Path travesal/File path traversal, validation of file extension with null byte bypass.md",
+    "Path travesal/File path traversal, traversal sequences stripped with superfluous URL-decode.md",
+    "Path travesal/File path traversal, traversal sequences stripped non-recursively.md",
+    "SSRF (Server-side- Request Forgery/Basic SSRF against the local server.md",
+    "1. SQL Injection/Sin título 1.md",
+    "SSRF (Server-side- Request Forgery/Blind SSRF with out-of-band detection.md",
+    "1. SQL Injection/1.1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
+    "XSS/Reflected XSS into a JavaScript string with angle brackets HTML encoded.md",
+    "1. SQL Injection",
+    "XSS/Stored XSS into anchor href attribute with double quotes HTML-encoded.md",
     "README.md",
-    "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.2 Cómo funcionan las API de LLM.md",
-    "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM/1.2.1 Explotación de las APIs, funciones y complementos de LLM.md",
-    "BSCP/Ataques Web LLM/1.1 Qué es un modelo de lenguaje grande/1.1.3 Detección de vulnerabilidades de LLM.md",
-    "BSCP/Ataques Web LLM/1.2 Explotación de las APIs, funciones y complementos de LLM",
-    "BSCP/Ataques Web LLM/1.1 Qué es un modelo de lenguaje grande/1.1.2 Ataques LLM e inyección rápida.md",
-    "BSCP/Ataques Web LLM/1.1 Qué es un modelo de lenguaje grande/1.1.1 Qué es un modelo de lenguaje grande.md",
-    "BSCP/Ataques Web LLM/1.1 Qué es un modelo de lenguaje grande",
-    "BSCP/Pruebas de API/13 Alineación de la Academia de Seguridad Web con las 10 principales vulnerabilidades de API de OWASP.md",
-    "BSCP/Ataques Web LLM",
-    "OXTeams.md",
-    "BSCP/Pruebas de API/1.5 Vulnerabilidades de asignación masiva/1.5.3 Prueba de vulnerabilidades de asignación masiva.md",
-    "BSCP/Pruebas de API/1.5 Vulnerabilidades de asignación masiva/1.5.2 Identificación de parámetros ocultos.md",
-    "BSCP/Pruebas de API/1.12 Prevención de la contaminación de parámetros del lado del servidor",
-    "BSCP/Pruebas de API/1.11 Pruebas con herramientas automatizadas",
-    "IMG/Pasted image 20250505233102.png",
-    "IMG/Pasted image 20250505232944.png",
-    "IMG/Pasted image 20250505232605.png",
-    "IMG/Pasted image 20250505231824.png",
-    "IMG/Pasted image 20250505231138.png",
-    "IMG/Pasted image 20250505231013.png",
-    "IMG/Pasted image 20250505230855.png"
+    "XSS/Reflected XSS into attribute with angle brackets HTML-encoded.md",
+    "XSS/DOM XSS in jQuery selector sink using a hashchange event.md",
+    "XSS/DOM XSS in jQuery anchor href attribute sink using location.search source.md",
+    "XSS/DOM XSS en innerHTML usando location.search.md",
+    "XSS/DOM XSS en document.write usando location.search.md",
+    "XSS",
+    "XML external entity (XXE) injection/Exploiting XXE to perform SSRF attacks.md",
+    "SSRF (Server-side- Request Forgery/SSRF with filter bypass via open redirection vulnerability.md",
+    "SSRF (Server-side- Request Forgery/SSRF with blacklist-based input filter.md",
+    "IMAGES/Pasted image 20250128215953.png",
+    "XML external entity (XXE) injection/XML External Entity (XXE) Injection.md",
+    "IMAGES/Pasted image 20250127224126.png",
+    "IMAGES/Pasted image 20250127225901.png",
+    "XML external entity (XXE) injection",
+    "IMAGES",
+    "SSRF (Server-side- Request Forgery",
+    "Path travesal",
+    "Bienvenido.md"
   ]
 }
