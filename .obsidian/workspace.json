@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. SQL Injection/Labs/Sin título.md",
+                "file": "1. SQL Injection/1.1 Labs/1.1.1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "1.1.1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data"
             }
           }
         ],
@@ -220,10 +220,11 @@
   },
   "active": "913a406e480b9ede",
   "lastOpenFiles": [
-    "1. SQL Injection/Qué es SQL Injection.md",
-    "1. SQL Injection/Labs/Sin título.md",
+    "Pasted image 20250930000909.png",
+    "1. SQL Injection/2.2 Qué es SQL Injection.md",
+    "1. SQL Injection/1.1 Labs/1.1.1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
     "1. SQL Injection/1.1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
-    "1. SQL Injection/Labs",
+    "1. SQL Injection/1.1 Labs",
     "Pasted image 20250929224612.png",
     "Pasted image 20250929222757.png",
     "Pasted image 20250929221444.png",
