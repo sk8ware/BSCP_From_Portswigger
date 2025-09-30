@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. SQL Injection/1.1 Labs/1.1.2 SQL injection vulnerability allowing login bypass.md",
+                "file": "1. SQL Injection/1.1 Labs/1.1.3 SQL injection attack, querying the database type and version on Oracle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1.2 SQL injection vulnerability allowing login bypass"
+              "title": "1.1.3 SQL injection attack, querying the database type and version on Oracle"
             }
           }
         ],
@@ -220,8 +220,9 @@
   },
   "active": "913a406e480b9ede",
   "lastOpenFiles": [
-    "1. SQL Injection/2.2 Qué es SQL Injection.md",
     "1. SQL Injection/1.1 Labs/1.1.2 SQL injection vulnerability allowing login bypass.md",
+    "1. SQL Injection/1.1 Labs/1.1.3 SQL injection attack, querying the database type and version on Oracle.md",
+    "1. SQL Injection/2.2 Qué es SQL Injection.md",
     "1. SQL Injection\\1.1 Labs",
     "Pasted image 20250930001319.png",
     "1. SQL Injection/1.1 Labs/1.1.1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
